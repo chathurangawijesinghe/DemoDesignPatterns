@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Classes\Animal.cs" />
     <Compile Include="Classes\Cat.cs" />
+    <Compile Include="Classes\Creature.cs" />
     <Compile Include="Classes\Dog.cs" />
     <Compile Include="Classes\PassByValue.cs" />
     <Compile Include="Classes\WorkWithAnimals.cs" />
