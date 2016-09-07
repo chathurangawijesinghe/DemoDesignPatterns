@@ -6,25 +6,21 @@ using System.Threading.Tasks;
 
 namespace DemoDesignPatterns.Classes
 {
-    public abstract class Creature
+    public class Giraffe : Creature
     {
-        protected string name;
-        protected int weight;
-        protected string sound;
-
-        public abstract string Name
+        public override string Name
         {
             get;
             set;
         }
 
-        public abstract int Weight
+        public override int Weight
         {
             get;
             set;
         }
 
-        public abstract string Sound
+        public override string Sound
         {
             get;
             set;

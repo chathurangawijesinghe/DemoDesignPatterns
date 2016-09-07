@@ -46,8 +46,11 @@
     <Compile Include="Classes\Cat.cs" />
     <Compile Include="Classes\Creature.cs" />
     <Compile Include="Classes\Dog.cs" />
+    <Compile Include="Classes\Giraffe.cs" />
+    <Compile Include="Classes\Monkey.cs" />
     <Compile Include="Classes\PassByValue.cs" />
     <Compile Include="Classes\WorkWithAnimals.cs" />
+    <Compile Include="Interfaces\ILiving.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

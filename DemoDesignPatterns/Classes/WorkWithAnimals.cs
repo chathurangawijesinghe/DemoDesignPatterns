@@ -48,6 +48,11 @@ namespace DemoDesignPatterns.Classes
 
             ((Dog)doggy).DigHole();
 
+            Giraffe giraffe = new Giraffe();
+            giraffe.Name = "Frank";
+
+            Console.WriteLine("Giraffe name : " + giraffe.Name);
+
             Console.ReadKey();
         }
 
