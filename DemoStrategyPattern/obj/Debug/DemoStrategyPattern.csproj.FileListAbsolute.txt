@@ -1,0 +1,6 @@
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.exe.config
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.csprojResolveAssemblyReference.cache
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.exe
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.pdb
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.exe
+D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.pdb
