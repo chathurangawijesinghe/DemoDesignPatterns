@@ -10,9 +10,3 @@ D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDes
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.csprojResolveAssemblyReference.cache
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.pdb
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.exe.config
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.exe
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.pdb
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.csprojResolveAssemblyReference.cache
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.exe
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.pdb
