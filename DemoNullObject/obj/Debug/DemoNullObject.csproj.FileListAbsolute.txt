@@ -1,9 +1,3 @@
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe.config
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.csprojResolveAssemblyReference.cache
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.pdb
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.exe
-F:\Test Projects\git-mine\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.pdb
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe.config
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.pdb
