@@ -1,0 +1,6 @@
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\bin\Debug\DemoSingletonDesignPattern.exe.config
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\bin\Debug\DemoSingletonDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\bin\Debug\DemoSingletonDesignPattern.pdb
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\obj\Debug\DemoSingletonDesignPattern.csprojResolveAssemblyReference.cache
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\obj\Debug\DemoSingletonDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoSingletonDesignPattern\obj\Debug\DemoSingletonDesignPattern.pdb

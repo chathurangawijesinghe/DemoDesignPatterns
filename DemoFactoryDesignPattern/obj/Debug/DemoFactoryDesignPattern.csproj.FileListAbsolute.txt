@@ -1,0 +1,6 @@
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.exe.config
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.pdb
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryDesignPattern.csprojResolveAssemblyReference.cache
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryDesignPattern.pdb

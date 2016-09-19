@@ -1,0 +1,5 @@
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoAbstractFactoryDesignPattern\bin\Debug\DemoAbstractFactoryDesignPattern.exe.config
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoAbstractFactoryDesignPattern\bin\Debug\DemoAbstractFactoryDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoAbstractFactoryDesignPattern\bin\Debug\DemoAbstractFactoryDesignPattern.pdb
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoAbstractFactoryDesignPattern\obj\Debug\DemoAbstractFactoryDesignPattern.exe
+F:\Test Projects\git-mine\DemoDesignPatterns\DemoAbstractFactoryDesignPattern\obj\Debug\DemoAbstractFactoryDesignPattern.pdb
