@@ -4,3 +4,10 @@ D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoSt
 D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.pdb
 D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\bin\Debug\DemoStrategyPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoStrategyPattern\obj\Debug\DemoStrategyPattern.pdb

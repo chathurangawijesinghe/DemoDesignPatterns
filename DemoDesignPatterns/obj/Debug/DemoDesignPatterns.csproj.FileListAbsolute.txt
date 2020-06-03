@@ -10,3 +10,10 @@ D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDes
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.csprojResolveAssemblyReference.cache
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.exe
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\bin\Debug\DemoDesignPatterns.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.exe
+D:\Developments\C#\DemoDesignPatterns\DemoDesignPatterns\obj\Debug\DemoDesignPatterns.pdb

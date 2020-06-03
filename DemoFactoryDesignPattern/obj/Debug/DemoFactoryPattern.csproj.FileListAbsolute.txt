@@ -1,0 +1,7 @@
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\bin\Debug\DemoFactoryDesignPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryPattern.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryDesignPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoFactoryDesignPattern\obj\Debug\DemoFactoryDesignPattern.pdb

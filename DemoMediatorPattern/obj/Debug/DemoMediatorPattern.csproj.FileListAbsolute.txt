@@ -1,0 +1,7 @@
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\bin\Debug\DemoMediatorPattern.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\bin\Debug\DemoMediatorPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\bin\Debug\DemoMediatorPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\obj\Debug\DemoMediatorPattern.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\obj\Debug\DemoMediatorPattern.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\obj\Debug\DemoMediatorPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoMediatorPattern\obj\Debug\DemoMediatorPattern.pdb

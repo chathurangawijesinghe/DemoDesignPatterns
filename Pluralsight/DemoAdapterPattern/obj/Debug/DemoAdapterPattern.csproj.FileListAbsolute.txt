@@ -1,0 +1,2 @@
+D:\Developments\C#\DemoDesignPatterns\Pluralsight\DemoAdapterPattern\obj\Debug\DemoAdapterPattern.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\Pluralsight\DemoAdapterPattern\obj\Debug\DemoAdapterPattern.csproj.CoreCompileInputs.cache

@@ -4,3 +4,10 @@ D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObj
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.csprojResolveAssemblyReference.cache
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.exe
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\bin\Debug\DemoNullObject.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.exe
+D:\Developments\C#\DemoDesignPatterns\DemoNullObject\obj\Debug\DemoNullObject.pdb

@@ -4,3 +4,10 @@ D:\Projects\Git Projects\DemoDesignPatterns\DemoObserverPattern\bin\Debug\DemoOb
 D:\Projects\Git Projects\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.csprojResolveAssemblyReference.cache
 D:\Projects\Git Projects\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.exe
 D:\Projects\Git Projects\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\bin\Debug\DemoObserverPattern.exe.config
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\bin\Debug\DemoObserverPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\bin\Debug\DemoObserverPattern.pdb
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.csprojAssemblyReference.cache
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.csproj.CoreCompileInputs.cache
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.exe
+D:\Developments\C#\DemoDesignPatterns\DemoObserverPattern\obj\Debug\DemoObserverPattern.pdb
